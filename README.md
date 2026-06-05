@@ -1,5 +1,8 @@
 # Instagram Profile Analysis Dashboard
 
+🚀 **[View the Live Application Here]([https://instagram-profile-analysis.lovable.app/])**
+
+A dynamic, fully responsive React dashboard designed to ingest and visualize Instagram profile analytics...
 A dynamic, fully responsive React dashboard designed to ingest and visualize Instagram profile analytics, content gaps, and strategic recommendations in real-time. 
 
 ## 🏗️ Architecture & Tech Stack
